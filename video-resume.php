@@ -2,11 +2,11 @@
 
 /**
 * Plugin Name: Video Resume
-* Plugin URI: http://www.phildesigns.com
+* Plugin URI: https://www.phildesigns.com
 * Description: This plugin uses user based meta to restore the last paused position of Vimeo and YouTube videos.
 * Version: 1.0.1
 * Author: phil.designs | Phillip De Vita
-* Author URI: http://www.phildesigns.com
+* Author URI: https://www.phildesigns.com
 * License: GPL2
 */
 
